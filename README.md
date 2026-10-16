@@ -4,10 +4,6 @@
 
 PROFESSOR: MUNIF
 
-Composição dos nomes das pastas
-
-T = trabalho,
-
-XXX (números a frente) = ordem de realização dos trabalhos, ordem definida em aula pelo professor;
+Professor se possível olhar o histórico de commit da aula-10 pois vim na aula e commitei no dia, mas tive que alterar o nome do arquivo
 
 
